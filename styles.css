@@ -4,7 +4,6 @@ body {
   padding: 0;
   margin: 0;
 }
-
 /* Hero Information */
 section.hero-section {
   background-color: #1f2937;
@@ -70,7 +69,6 @@ p {
   color: #e5e7eb;
   font-size: 18px;
 }
-
 /* Information */
 section.information {
   height: 50vh;
@@ -117,7 +115,6 @@ section.quote {
   display: flex;
   justify-content: center;
 }
-
 section.quote div {
   display: flex;
   flex-direction: column;
@@ -143,7 +140,6 @@ section.action {
   justify-content: center;
   align-items: center;
 }
-
 .action-container {
   display: flex;
   width: 80%;
@@ -153,7 +149,6 @@ section.action {
   padding: 20px 80px;
   border-radius: 5px;
 }
-
 .action-container div p:nth-child(1) {
   font-weight: 1000;
   margin-bottom: 0;
@@ -161,7 +156,6 @@ section.action {
 .action-container div p:nth-child(2) {
   margin-top: 0;
 }
-
 button {
   cursor: pointer;
   width: 100px;
